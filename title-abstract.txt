@@ -2,4 +2,4 @@ Title:
 Labeling Spectrograms of Audio Data to Detect Changes in Bird Behavior
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The increase in noise pollution potentially disturbs the living of birds. It's hypothesized that bird singing diminishes when airplane noises are present because birds might exhibit a heightened sensitivity to airplane noises. This paper presents our process of modifying an existing spectrogram labeler to distinguish between bird songs and different aircraft. This labeler will enable researchers to gather data that can be fed to machine-learning or deep-learning algorithms. The outcomes of potential research could contribute to ecological management and policy-making aimed at minimizing human impact on wildlife.
