@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Labeling Spectrograms of Audio Data to Detect Changes in Bird Behavior
 
 Abstract:
 <MY SUPER AWESOME PROJECT ABSTRACT>
